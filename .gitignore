@@ -1,0 +1,6 @@
+.DS_Store
+.Rhistory
+ignore/**
+README.html
+README_placehoder.md
+utils.py
